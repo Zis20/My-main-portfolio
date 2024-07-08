@@ -50,6 +50,21 @@ nav ul {
  border: none;
 
 }
+.sec-descripton{
+  font-size: 18px;
+  color: #757575;
+}
+
+.sec-title  {
+  font-size: 45px;
+  font-weight: bold;
+  color: #181818;
+}
+
+.secondary-bgc{
+  background-color: #FFF8F3;
+}
+
 
 /* banner styles */
 .banner{
